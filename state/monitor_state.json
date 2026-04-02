@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "parser_version": 1,
+  "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
+  "fetched_at": "2026-04-02T19:41:18.531482+09:00",
+  "last_hash": "sha256:9bc1e972548f2a0c8ad9538eba221ffd834426a8d567088c0a45c3f72543d242",
+  "item_count": 2,
+  "normalized_items": [
+    {
+      "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/174613",
+      "date": "",
+      "raw_text": "2026 鈴鹿サーキット一般競技規則書.pdf"
+    },
+    {
+      "title": "2026 サポート・ワンメイクレース特別規則書.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/174614",
+      "date": "",
+      "raw_text": "2026 サポート・ワンメイクレース特別規則書.pdf"
+    }
+  ],
+  "error_state": {
+    "consecutive_errors": 0,
+    "last_error_type": null,
+    "last_error_message": null,
+    "last_error_notified_at": null
+  }
+}
