@@ -1,0 +1,48 @@
+# 秘密情報 (絶対にコミットしない)
+.env
+*.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# 仮想環境
+venv/
+.venv/
+env/
+.env.bak
+
+# Playwright
+playwright-report/
+test-results/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ログ
+*.log
+
+# state ファイルは追跡対象 (コミットで永続化するため .gitignore に含めない)
+# state/monitor_state.json  ← これは意図的に含めない

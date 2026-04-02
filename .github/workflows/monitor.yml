@@ -1,0 +1,108 @@
+name: 通知監視 (スーパー耐久)
+
+on:
+  schedule:
+    # 10分おきに実行 (UTC)
+    # 注意: GitHub Actions の cron は混雑時に数分〜最大15分の遅延が生じる場合あり
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+    # 手動実行 (テスト・再起動用)
+    inputs:
+      log_level:
+        description: 'ログレベル (DEBUG / INFO / WARNING)'
+        required: false
+        default: 'INFO'
+
+# state ファイルをリポジトリにコミットするための書き込み権限
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    name: 通知監視実行
+    runs-on: ubuntu-latest
+    # 1実行の上限時間: 10分 (次の cron 実行前に必ず終わるよう余裕を持たせる)
+    timeout-minutes: 8
+
+    steps:
+      # ----------------------------------------------------------------
+      # 1. リポジトリをチェックアウト
+      # ----------------------------------------------------------------
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+        with:
+          # git push するために PAT または デフォルトの GITHUB_TOKEN を使う
+          # GITHUB_TOKEN で push できない場合は、Personal Access Token (PAT) を
+          # GIT_TOKEN という Secret に登録して token: ${{ secrets.GIT_TOKEN }} に変更する
+          token: ${{ secrets.GITHUB_TOKEN }}
+          # fetch-depth: 0 にすることで push 時の競合リスクを減らす
+          fetch-depth: 1
+
+      # ----------------------------------------------------------------
+      # 2. Python セットアップ
+      # ----------------------------------------------------------------
+      - name: Python セットアップ (3.11)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      # ----------------------------------------------------------------
+      # 3. 依存パッケージをインストール
+      # ----------------------------------------------------------------
+      - name: 依存パッケージをインストール
+        run: pip install -r requirements.txt
+
+      # ----------------------------------------------------------------
+      # 4. Playwright (Chromium のみ) をインストール
+      #    --with-deps: Ubuntu に必要なシステムライブラリも自動インストール
+      #    Chromium のみにすることで Firebase/WebKit は省き、時間を節約
+      # ----------------------------------------------------------------
+      - name: Playwright Chromium をインストール
+        run: playwright install chromium --with-deps
+
+      # ----------------------------------------------------------------
+      # 5. 監視スクリプトを実行
+      #    秘密情報は GitHub Secrets から環境変数として注入
+      # ----------------------------------------------------------------
+      - name: 監視スクリプトを実行
+        env:
+          TARGET_PASSWORD:   ${{ secrets.TARGET_PASSWORD }}
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          FIRST_RUN_NOTIFY:  ${{ secrets.FIRST_RUN_NOTIFY }}
+          LOG_LEVEL: ${{ github.event.inputs.log_level || 'INFO' }}
+        run: python -m monitor.main
+        # スクリプトがエラー終了 (exit=1) しても、state コミットは試みる
+        # そのため continue-on-error を使わず、後続ステップで if: always() を使う
+
+      # ----------------------------------------------------------------
+      # 6. state ファイルをコミット・プッシュ
+      #    変更がない場合はコミットしない ([skip ci] でワークフロー再トリガーを防ぐ)
+      # ----------------------------------------------------------------
+      - name: state ファイルをコミット (変更があった場合のみ)
+        if: always()  # スクリプト失敗時もエラー状態を保存するため
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # state ディレクトリに変更があるか確認
+          if git diff --quiet state/; then
+            echo "state に変更なし。コミットをスキップします。"
+            exit 0
+          fi
+
+          git add state/monitor_state.json
+
+          # コミットメッセージに [skip ci] を付けて、このコミットが
+          # 再度 workflow をトリガーしないようにする
+          git commit -m "chore: state を更新 [skip ci]"
+
+          # push が失敗した場合 (競合等) はリトライ
+          for i in 1 2 3; do
+            if git push; then
+              echo "push 成功"
+              break
+            fi
+            echo "push 失敗 (試行 $i/3)。pull してリトライします..."
+            git pull --rebase
+          done
