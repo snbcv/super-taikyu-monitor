@@ -20,7 +20,7 @@ permissions:
 jobs:
   monitor:
     name: 通知監視実行
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     # 1実行の上限時間: 10分 (次の cron 実行前に必ず終わるよう余裕を持たせる)
     timeout-minutes: 8
 
