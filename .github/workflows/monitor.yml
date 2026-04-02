@@ -85,8 +85,8 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # state ディレクトリに変更があるか確認
-          if git diff --quiet state/; then
+          # state ディレクトリに変更があるか確認 (新規ファイルも含む)
+          if [ -z "$(git status --porcelain state/)" ]; then
             echo "state に変更なし。コミットをスキップします。"
             exit 0
           fi
