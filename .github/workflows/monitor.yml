@@ -99,11 +99,11 @@ jobs:
 
           # push が失敗した場合 (競合等) はリトライ
           for i in 1 2 3; do
-           if git push; then
-            echo "push 成功"
+            if git push; then
+              echo "push 成功"
             break
-           fi
-           echo "push 失敗 (試行 $i/3)。pull してリトライします..."
-           git rebase --abort 2>/dev/null || true
-           git pull --rebase -X ours
+            fi
+            echo "push 失敗 (試行 $i/3)。pull してリトライします..."
+            git rebase --abort 2>/dev/null || true
+            git pull --rebase -X ours
           done
