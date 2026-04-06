@@ -91,7 +91,7 @@ async def _find_first_selector(page: Page, candidates: list[str]) -> Optional[ob
     """セレクタ候補リストを順番に試し、最初にマッチした要素を返す"""
     for selector in candidates:
         try:
-            el = await page.query_selector(selector)
+            containers = await page.query_selector_all(selector)
             if el:
                 logger.debug("セレクタマッチ: %s", selector)
                 return el
@@ -255,7 +255,7 @@ async def _extract_notifications(page: Page, base_url: str) -> list[dict]:
     used_container_selector = None
     for selector in NOTIFICATION_SELECTORS["container"]:
         try:
-            el = await page.query_selector(selector)
+            containers = await page.query_selector_all(selector)
             if el:
                 container = el
                 used_container_selector = selector
