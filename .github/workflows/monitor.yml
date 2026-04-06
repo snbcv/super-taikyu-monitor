@@ -106,4 +106,4 @@ jobs:
            echo "push 失敗 (試行 $i/3)。pull してリトライします..."
            git rebase --abort 2>/dev/null || true
            git pull --rebase -X ours
-         done
+          done
