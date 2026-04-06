@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-06T15:21:18.430424+09:00",
-  "last_hash": "sha256:9bc1e972548f2a0c8ad9538eba221ffd834426a8d567088c0a45c3f72543d242",
-  "item_count": 2,
+  "fetched_at": "2026-04-06T19:38:21.687016+09:00",
+  "last_hash": "sha256:cd1d6873c85377fbe8dec9c4df1adca6b6cf1fdd9c1e28b328219b36a9dcfc3e",
+  "item_count": 16,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -17,6 +17,90 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/174614",
       "date": "",
       "raw_text": "2026 サポート・ワンメイクレース特別規則書.pdf"
+    },
+    {
+      "title": "2026 参加に関する誓約書・承諾書(S耐_Yaris).pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/174654",
+      "date": "",
+      "raw_text": "2026 参加に関する誓約書・承諾書(S耐_Yaris).pdf"
+    },
+    {
+      "title": "昼食弁当 お申し込みフォーム",
+      "url": "https://mls.mobilityland.co.jp/form/InquiryInformation.aspx?formNo=MjVz0nv0dBg%3D",
+      "date": "",
+      "raw_text": "昼食弁当 お申し込みフォーム"
+    },
+    {
+      "title": "お弁当メニュー一覧_SUZUKA S耐.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/175754",
+      "date": "",
+      "raw_text": "お弁当メニュー一覧_SUZUKA S耐.pdf"
+    },
+    {
+      "title": "窒素ボンベ・板氷・ドライアイス/チームオフィス・ピットルーム お申込みフォーム",
+      "url": "https://forms.office.com/pages/responsepage.aspx?id=Z8yo6QzXYEyRE5ersmPOd4M5SMvtfJVGnskQMiF8uFZUMzk3WUZCWUQ0TlYyWjhVWEw5RkpFS0c1Ri4u&route=shorturl",
+      "date": "",
+      "raw_text": "窒素ボンベ・板氷・ドライアイス/チームオフィス・ピットルーム お申込みフォーム"
+    },
+    {
+      "title": "【S耐】もてぎ・鈴鹿MS暫定共済会加入申込書.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177020",
+      "date": "",
+      "raw_text": "【S耐】もてぎ・鈴鹿MS暫定共済会加入申込書.pdf"
+    },
+    {
+      "title": "【S耐】もてぎ・鈴鹿MS暫定共済会加入申込書(Excel ver.).xlsx",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177021",
+      "date": "",
+      "raw_text": "【S耐】もてぎ・鈴鹿MS暫定共済会加入申込書(Excel ver.).xlsx"
+    },
+    {
+      "title": "2026年度 共済会 傷害総合保険概要・支払保険金のご案内.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/174653",
+      "date": "",
+      "raw_text": "2026年度 共済会 傷害総合保険概要・支払保険金のご案内.pdf"
+    },
+    {
+      "title": "【S耐宛】エントラント向けゲストパス特別販売のご案内.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/174943",
+      "date": "",
+      "raw_text": "【S耐宛】エントラント向けゲストパス特別販売のご案内.pdf"
+    },
+    {
+      "title": "【Yaris Cup宛】エントラント向けゲストパス特別販売のご案内.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/174945",
+      "date": "",
+      "raw_text": "【Yaris Cup宛】エントラント向けゲストパス特別販売のご案内.pdf"
+    },
+    {
+      "title": "Yaris_Cup関西シリーズ第1戦_暫定エントリーリスト_0403.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/176852",
+      "date": "",
+      "raw_text": "Yaris_Cup関西シリーズ第1戦_暫定エントリーリスト_0403.pdf"
+    },
+    {
+      "title": "↑エントリー内容に変更がある場合は、3/31(火)までにお問い合わせフォームよりご連絡ください。",
+      "url": "https://mls.mobilityland.co.jp/form/InquiryInformation.aspx?formNo=yGJKMpfuEh8%3D",
+      "date": "",
+      "raw_text": "↑エントリー内容に変更がある場合は、3/31(火)までにお問い合わせフォームよりご連絡ください。"
+    },
+    {
+      "title": "SMSC営業時間(S耐).pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/176671",
+      "date": "",
+      "raw_text": "SMSC営業時間(S耐).pdf"
+    },
+    {
+      "title": "駐車券の取り付けについて.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177019",
+      "date": "",
+      "raw_text": "駐車券の取り付けについて.pdf"
+    },
+    {
+      "title": "ゴミ分別センター開設時間.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177187",
+      "date": "",
+      "raw_text": "ゴミ分別センター開設時間.pdf"
     }
   ],
   "error_state": {
