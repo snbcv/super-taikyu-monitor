@@ -4,7 +4,7 @@ on:
   schedule:
     # 10分おきに実行 (UTC)
     # 注意: GitHub Actions の cron は混雑時に数分〜最大15分の遅延が生じる場合あり
-    - cron: '*/10 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
     # 手動実行 (テスト・再起動用)
     inputs:
