@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-07T14:59:17.274991+09:00",
-  "last_hash": "sha256:73a32f5a7116683da47b7f9a8040d18bd4800dc8637571aadbf39a2e52ef5022",
-  "item_count": 18,
+  "fetched_at": "2026-04-07T18:52:45.154858+09:00",
+  "last_hash": "sha256:38ea62d9a9182b780f02a26aeb84e5c5b468ce6300e594e0c6e67ac4258997c6",
+  "item_count": 19,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -73,10 +73,10 @@
       "raw_text": "【Yaris Cup宛】エントラント向けゲストパス特別販売のご案内.pdf"
     },
     {
-      "title": "Yaris_Cup関西シリーズ第1戦_暫定エントリーリスト_0403.pdf",
-      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/176852",
+      "title": "Yaris_Cup関西シリーズ第1戦_暫定エントリーリスト_0407.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177202",
       "date": "",
-      "raw_text": "Yaris_Cup関西シリーズ第1戦_暫定エントリーリスト_0403.pdf"
+      "raw_text": "Yaris_Cup関西シリーズ第1戦_暫定エントリーリスト_0407.pdf"
     },
     {
       "title": "↑エントリー内容に変更がある場合は、3/31(火)までにお問い合わせフォームよりご連絡ください。",
@@ -101,6 +101,12 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177187",
       "date": "",
       "raw_text": "ゴミ分別センター開設時間.pdf"
+    },
+    {
+      "title": "【S耐/Yaris】ピットおよびパドック 搬入・搬出に関するご案内.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177204",
+      "date": "",
+      "raw_text": "【S耐/Yaris】ピットおよびパドック 搬入・搬出に関するご案内.pdf"
     },
     {
       "title": "【S耐】送付案内(QRコード更新版).pdf",
