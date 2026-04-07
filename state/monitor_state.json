@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-07T08:53:23.224035+09:00",
-  "last_hash": "sha256:cd1d6873c85377fbe8dec9c4df1adca6b6cf1fdd9c1e28b328219b36a9dcfc3e",
-  "item_count": 16,
+  "fetched_at": "2026-04-07T14:59:17.274991+09:00",
+  "last_hash": "sha256:73a32f5a7116683da47b7f9a8040d18bd4800dc8637571aadbf39a2e52ef5022",
+  "item_count": 18,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -101,6 +101,18 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177187",
       "date": "",
       "raw_text": "ゴミ分別センター開設時間.pdf"
+    },
+    {
+      "title": "【S耐】送付案内(QRコード更新版).pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177200",
+      "date": "",
+      "raw_text": "【S耐】送付案内(QRコード更新版).pdf"
+    },
+    {
+      "title": "【Yaris】送付案内(QRコード更新版).pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177201",
+      "date": "",
+      "raw_text": "【Yaris】送付案内(QRコード更新版).pdf"
     }
   ],
   "error_state": {
