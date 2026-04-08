@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-08T15:02:47.972668+09:00",
-  "last_hash": "sha256:018dbdb5763c5f576321a542820ac1d0b61127c3c4e228f0d3cd726774144a1b",
-  "item_count": 21,
+  "fetched_at": "2026-04-08T18:54:45.198939+09:00",
+  "last_hash": "sha256:8b508a63e38ab0f024341a88312cda4843332c9e2a1831a7d9612770cc11367e",
+  "item_count": 24,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -17,6 +17,18 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/174614",
       "date": "",
       "raw_text": "2026 サポート・ワンメイクレース特別規則書.pdf"
+    },
+    {
+      "title": "2026年 S耐 第2戦 SUZUKA 5時間レース 大会特別規則書(暫定).pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177265",
+      "date": "",
+      "raw_text": "2026年 S耐 第2戦 SUZUKA 5時間レース 大会特別規則書(暫定).pdf"
+    },
+    {
+      "title": "公式通知 No.1 タイムテーブル.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177249",
+      "date": "",
+      "raw_text": "公式通知 No.1 タイムテーブル.pdf"
     },
     {
       "title": "2026 参加に関する誓約書・承諾書(S耐_Yaris).pdf",
@@ -44,15 +56,21 @@
     },
     {
       "title": "【S耐】もてぎ・鈴鹿MS暫定共済会加入申込書.pdf",
-      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177020",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177256",
       "date": "",
       "raw_text": "【S耐】もてぎ・鈴鹿MS暫定共済会加入申込書.pdf"
     },
     {
       "title": "【S耐】もてぎ・鈴鹿MS暫定共済会加入申込書(Excel ver.).xlsx",
-      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177021",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177257",
       "date": "",
       "raw_text": "【S耐】もてぎ・鈴鹿MS暫定共済会加入申込書(Excel ver.).xlsx"
+    },
+    {
+      "title": "【S耐】特別スポーツ走行のご案内.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177255",
+      "date": "",
+      "raw_text": "【S耐】特別スポーツ走行のご案内.pdf"
     },
     {
       "title": "2026年度 共済会 傷害総合保険概要・支払保険金のご案内.pdf",
