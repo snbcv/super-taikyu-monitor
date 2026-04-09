@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-09T15:00:46.362731+09:00",
-  "last_hash": "sha256:8b508a63e38ab0f024341a88312cda4843332c9e2a1831a7d9612770cc11367e",
-  "item_count": 24,
+  "fetched_at": "2026-04-09T19:21:00.303463+09:00",
+  "last_hash": "sha256:ccba400dafcd08ee4e651a6ddd162e3d4b465f4de6431e7c0389fded296cc86b",
+  "item_count": 27,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -20,7 +20,7 @@
     },
     {
       "title": "2026年 S耐 第2戦 SUZUKA 5時間レース 大会特別規則書(暫定).pdf",
-      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177265",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177323",
       "date": "",
       "raw_text": "2026年 S耐 第2戦 SUZUKA 5時間レース 大会特別規則書(暫定).pdf"
     },
@@ -29,6 +29,18 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177249",
       "date": "",
       "raw_text": "公式通知 No.1 タイムテーブル.pdf"
+    },
+    {
+      "title": "INFORMATION No.1 スーパー耐久 指定ピット割.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177314",
+      "date": "",
+      "raw_text": "INFORMATION No.1 スーパー耐久 指定ピット割.pdf"
+    },
+    {
+      "title": "INFORMATION No.2 ピット裏トランスポーター駐車位置のご案内.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177315",
+      "date": "",
+      "raw_text": "INFORMATION No.2 ピット裏トランスポーター駐車位置のご案内.pdf"
     },
     {
       "title": "2026 参加に関する誓約書・承諾書(S耐_Yaris).pdf",
@@ -53,6 +65,12 @@
       "url": "https://forms.office.com/pages/responsepage.aspx?id=Z8yo6QzXYEyRE5ersmPOd4M5SMvtfJVGnskQMiF8uFZUMzk3WUZCWUQ0TlYyWjhVWEw5RkpFS0c1Ri4u&route=shorturl",
       "date": "",
       "raw_text": "窒素ボンベ・板氷・ドライアイス/チームオフィス・ピットルーム お申込みフォーム"
+    },
+    {
+      "title": "★お知らせ★チームオフィス・ピットルーム申込締切 4月11日(土)11:00",
+      "url": null,
+      "date": "",
+      "raw_text": "★お知らせ★チームオフィス・ピットルーム申込締切 4月11日(土)11:00"
     },
     {
       "title": "【S耐】もてぎ・鈴鹿MS暫定共済会加入申込書.pdf",
