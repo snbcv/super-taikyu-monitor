@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-10T08:26:55.348540+09:00",
-  "last_hash": "sha256:ccba400dafcd08ee4e651a6ddd162e3d4b465f4de6431e7c0389fded296cc86b",
-  "item_count": 27,
+  "fetched_at": "2026-04-10T15:15:08.076297+09:00",
+  "last_hash": "sha256:60b3aad90860472eaa596e16236c9704b7fc40d6e81701380b3127cf61a0d0df",
+  "item_count": 36,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -41,6 +41,48 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177315",
       "date": "",
       "raw_text": "INFORMATION No.2 ピット裏トランスポーター駐車位置のご案内.pdf"
+    },
+    {
+      "title": "INFORMATION No.3 ピット裏配線処理について.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177385",
+      "date": "",
+      "raw_text": "INFORMATION No.3 ピット裏配線処理について.pdf"
+    },
+    {
+      "title": "INFORMATION No.4 ピット裏通路の運用について.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177386",
+      "date": "",
+      "raw_text": "INFORMATION No.4 ピット裏通路の運用について.pdf"
+    },
+    {
+      "title": "INFORMATION No.5 【重要】汚水・排水処理について.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177389",
+      "date": "",
+      "raw_text": "INFORMATION No.5 【重要】汚水・排水処理について.pdf"
+    },
+    {
+      "title": "INFORMATION No.6 注意事項・各種ご案内.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177390",
+      "date": "",
+      "raw_text": "INFORMATION No.6 注意事項・各種ご案内.pdf"
+    },
+    {
+      "title": "INFORMATION No.7 パドックレイアウト.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177403",
+      "date": "",
+      "raw_text": "INFORMATION No.7 パドックレイアウト.pdf"
+    },
+    {
+      "title": "INFORMATION No.8 A3パドックレイアウト.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177404",
+      "date": "",
+      "raw_text": "INFORMATION No.8 A3パドックレイアウト.pdf"
+    },
+    {
+      "title": "INFORMATION No.9 Eパドックレイアウト.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177405",
+      "date": "",
+      "raw_text": "INFORMATION No.9 Eパドックレイアウト.pdf"
     },
     {
       "title": "2026 参加に関する誓約書・承諾書(S耐_Yaris).pdf",
@@ -89,6 +131,18 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177255",
       "date": "",
       "raw_text": "【S耐】特別スポーツ走行のご案内.pdf"
+    },
+    {
+      "title": "車載カメラ申請書.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177410",
+      "date": "",
+      "raw_text": "車載カメラ申請書.pdf"
+    },
+    {
+      "title": "↑※Yaris Cupエントリー時に申請している場合は、提出不要。",
+      "url": null,
+      "date": "",
+      "raw_text": "↑※Yaris Cupエントリー時に申請している場合は、提出不要。"
     },
     {
       "title": "2026年度 共済会 傷害総合保険概要・支払保険金のご案内.pdf",
