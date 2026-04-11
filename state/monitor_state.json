@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-11T08:54:16.378067+09:00",
-  "last_hash": "sha256:60b3aad90860472eaa596e16236c9704b7fc40d6e81701380b3127cf61a0d0df",
-  "item_count": 36,
+  "fetched_at": "2026-04-11T14:19:11.561522+09:00",
+  "last_hash": "sha256:029b8be2535fe0a82d818ddabe7d5b2f02d8a8e7550357749c51fedd40e7de47",
+  "item_count": 38,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -131,6 +131,18 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177255",
       "date": "",
       "raw_text": "【S耐】特別スポーツ走行のご案内.pdf"
+    },
+    {
+      "title": "【Yaris】装備品申請書(Excel).xlsx",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177482",
+      "date": "",
+      "raw_text": "【Yaris】装備品申請書(Excel).xlsx"
+    },
+    {
+      "title": "【Yaris】装備品申請書(PDF).pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177483",
+      "date": "",
+      "raw_text": "【Yaris】装備品申請書(PDF).pdf"
     },
     {
       "title": "車載カメラ申請書.pdf",
