@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-12T17:34:13.867432+09:00",
-  "last_hash": "sha256:f598fa583aa6e100c938f0f6171d0bfad88dbd12afe5c766abec24bafa197fae",
-  "item_count": 39,
+  "fetched_at": "2026-04-12T19:25:43.569453+09:00",
+  "last_hash": "sha256:f944c6316ef576b510519c0f87820d28abb7f9514b323574b596d71736c98249",
+  "item_count": 43,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -29,6 +29,30 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177249",
       "date": "",
       "raw_text": "公式通知 No.1 タイムテーブル.pdf"
+    },
+    {
+      "title": "公式通知 No.2 指定ピット割/ピット前指定作業エリア割.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177546",
+      "date": "",
+      "raw_text": "公式通知 No.2 指定ピット割/ピット前指定作業エリア割.pdf"
+    },
+    {
+      "title": "公式通知 No.3 Yaris A1パドック 指定整備エリア割.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177547",
+      "date": "",
+      "raw_text": "公式通知 No.3 Yaris A1パドック 指定整備エリア割.pdf"
+    },
+    {
+      "title": "公式通知 No.4 Yaris A2パドック 指定整備エリア割.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177548",
+      "date": "",
+      "raw_text": "公式通知 No.4 Yaris A2パドック 指定整備エリア割.pdf"
+    },
+    {
+      "title": "公式通知 No.5 指定ガソリン 性状表.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177549",
+      "date": "",
+      "raw_text": "公式通知 No.5 指定ガソリン 性状表.pdf"
     },
     {
       "title": "INFORMATION No.1 スーパー耐久 指定ピット割.pdf",
