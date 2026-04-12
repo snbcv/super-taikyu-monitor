@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-12T09:05:07.687940+09:00",
-  "last_hash": "sha256:029b8be2535fe0a82d818ddabe7d5b2f02d8a8e7550357749c51fedd40e7de47",
-  "item_count": 38,
+  "fetched_at": "2026-04-12T15:13:00.363919+09:00",
+  "last_hash": "sha256:f598fa583aa6e100c938f0f6171d0bfad88dbd12afe5c766abec24bafa197fae",
+  "item_count": 39,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -221,6 +221,12 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177201",
       "date": "",
       "raw_text": "【Yaris】送付案内(QRコード更新版).pdf"
+    },
+    {
+      "title": "危険物取り扱いのご案内.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177517",
+      "date": "",
+      "raw_text": "危険物取り扱いのご案内.pdf"
     },
     {
       "title": "公式結果表(PDF)",
