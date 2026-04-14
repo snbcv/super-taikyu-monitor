@@ -2,8 +2,8 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-14T15:08:24.930472+09:00",
-  "last_hash": "sha256:e3bc6d4f5cb07247de90f557bd5a998699fdd325475f0223d3e50b1cadb0c3df",
+  "fetched_at": "2026-04-14T19:47:54.981245+09:00",
+  "last_hash": "sha256:2d233a50a6b83c38c040651f6493d4ea55663841e6c761f07ef92b8db2a3222d",
   "item_count": 46,
   "normalized_items": [
     {
@@ -121,10 +121,10 @@
       "raw_text": "INFORMATION No.10 レースコントロール無線配布について.pdf"
     },
     {
-      "title": "2026 参加に関する誓約書・承諾書(S耐_Yaris).pdf",
-      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/174654",
+      "title": "2026 参加に関する誓約書・承諾書(Yaris).pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177697",
       "date": "",
-      "raw_text": "2026 参加に関する誓約書・承諾書(S耐_Yaris).pdf"
+      "raw_text": "2026 参加に関する誓約書・承諾書(Yaris).pdf"
     },
     {
       "title": "昼食弁当 お申し込みフォーム",
@@ -151,10 +151,10 @@
       "raw_text": "★お知らせ★チームオフィス・ピットルーム申込締切 4月11日(土)11:00"
     },
     {
-      "title": "自家発電使用申請フォーム",
-      "url": "https://mls.mobilityland.co.jp/form/InquiryInformation.aspx?formNo=RkdpxaFjCwI%3D",
+      "title": "自家発電申請フォーム",
+      "url": "https://mls.mobilityland.co.jp/form/InquiryInformation.aspx?formNo=5TbnxjFCSVM%3D",
       "date": "",
-      "raw_text": "自家発電使用申請フォーム"
+      "raw_text": "自家発電申請フォーム"
     },
     {
       "title": "【S耐】もてぎ・鈴鹿MS暫定共済会加入申込書.pdf",
