@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-15T19:41:22.877063+09:00",
-  "last_hash": "sha256:b57818fb1c1e99529dc36b06cdd0f60f078fea6919bc6b67fb19b07f4405b671",
-  "item_count": 50,
+  "fetched_at": "2026-04-15T23:57:19.689274+09:00",
+  "last_hash": "sha256:f945914c6892cadd0b209d79cea9256b9e899e4547c053ef1332ce7a762831d9",
+  "item_count": 56,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -73,6 +73,30 @@
       "raw_text": "公式通知 No.8 Yaris 公式予選および決勝終了後の車両保管について.pdf"
     },
     {
+      "title": "公式通知 No.9 ライトパネル(発光式信号)の運用について.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177764",
+      "date": "",
+      "raw_text": "公式通知 No.9 ライトパネル(発光式信号)の運用について.pdf"
+    },
+    {
+      "title": "公式通知 No.10 ピット前エリアと燃料補給装置の設置について.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177765",
+      "date": "",
+      "raw_text": "公式通知 No.10 ピット前エリアと燃料補給装置の設置について.pdf"
+    },
+    {
+      "title": "公式通知 No.11 ST-4最低ピットレーン滞在義務時間について.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177766",
+      "date": "",
+      "raw_text": "公式通知 No.11 ST-4最低ピットレーン滞在義務時間について.pdf"
+    },
+    {
+      "title": "公式通知 No.12 FCY運用手順.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177767",
+      "date": "",
+      "raw_text": "公式通知 No.12 FCY運用手順.pdf"
+    },
+    {
       "title": "INFORMATION No.1 スーパー耐久 指定ピット割.pdf",
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177314",
       "date": "",
@@ -104,7 +128,7 @@
     },
     {
       "title": "INFORMATION No.6 注意事項・各種ご案内.pdf",
-      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177390",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177773",
       "date": "",
       "raw_text": "INFORMATION No.6 注意事項・各種ご案内.pdf"
     },
@@ -131,6 +155,18 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177643",
       "date": "",
       "raw_text": "INFORMATION No.10 レースコントロール無線配布について.pdf"
+    },
+    {
+      "title": "INFORMATION No.11 TVモニター・チャンネルレイアウト.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177768",
+      "date": "",
+      "raw_text": "INFORMATION No.11 TVモニター・チャンネルレイアウト.pdf"
+    },
+    {
+      "title": "INFORMATION No.12 Yaris 特別スポーツ走行・専有走行 コースインおよびパドックイン方法について.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177769",
+      "date": "",
+      "raw_text": "INFORMATION No.12 Yaris 特別スポーツ走行・専有走行 コースインおよびパドックイン方法について.pdf"
     },
     {
       "title": "2026 参加に関する誓約書・承諾書(Yaris).pdf",
