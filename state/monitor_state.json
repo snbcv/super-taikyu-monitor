@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-15T07:32:01.103361+09:00",
-  "last_hash": "sha256:2d233a50a6b83c38c040651f6493d4ea55663841e6c761f07ef92b8db2a3222d",
-  "item_count": 46,
+  "fetched_at": "2026-04-15T15:08:02.993777+09:00",
+  "last_hash": "sha256:72edab88ba18f15c7ad3c9ab925ef1d7d98039902a307ac7e7fb729b34a80945",
+  "item_count": 48,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -269,6 +269,18 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177517",
       "date": "",
       "raw_text": "危険物取り扱いのご案内.pdf"
+    },
+    {
+      "title": "【S耐宛】(大会期間中)エントラント向けゲストパス特別販売のご案内.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177726",
+      "date": "",
+      "raw_text": "【S耐宛】(大会期間中)エントラント向けゲストパス特別販売のご案内.pdf"
+    },
+    {
+      "title": "【Yaris cup宛】(大会期間中)エントラント向けゲストパス特別販売のご案内.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177728",
+      "date": "",
+      "raw_text": "【Yaris cup宛】(大会期間中)エントラント向けゲストパス特別販売のご案内.pdf"
     },
     {
       "title": "公式結果表(PDF)",
