@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-15T15:08:02.993777+09:00",
-  "last_hash": "sha256:72edab88ba18f15c7ad3c9ab925ef1d7d98039902a307ac7e7fb729b34a80945",
-  "item_count": 48,
+  "fetched_at": "2026-04-15T19:41:22.877063+09:00",
+  "last_hash": "sha256:b57818fb1c1e99529dc36b06cdd0f60f078fea6919bc6b67fb19b07f4405b671",
+  "item_count": 50,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -59,6 +59,18 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177645",
       "date": "",
       "raw_text": "公式通知 No.6 【改訂版】指定ピット割/ピット前指定作業エリア割.pdf"
+    },
+    {
+      "title": "公式通知 No.7 Yaris NOVICE 公式予選および決勝終了後の車両保管について.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177762",
+      "date": "",
+      "raw_text": "公式通知 No.7 Yaris NOVICE 公式予選および決勝終了後の車両保管について.pdf"
+    },
+    {
+      "title": "公式通知 No.8 Yaris 公式予選および決勝終了後の車両保管について.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177763",
+      "date": "",
+      "raw_text": "公式通知 No.8 Yaris 公式予選および決勝終了後の車両保管について.pdf"
     },
     {
       "title": "INFORMATION No.1 スーパー耐久 指定ピット割.pdf",
