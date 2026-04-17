@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-17T19:38:35.136264+09:00",
-  "last_hash": "sha256:923bcf14be8db349052927443493059b5e01650624887954da343426cfd7d7b2",
-  "item_count": 63,
+  "fetched_at": "2026-04-17T23:43:01.453767+09:00",
+  "last_hash": "sha256:85d58c1ea740450a7aa930aebcddfa4d4de3dbc36c5758b35914df63e5cb2c99",
+  "item_count": 67,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -107,6 +107,12 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178003",
       "date": "",
       "raw_text": "公式通知 No.14 Yaris Cup ピットレーン速度制限変更について.pdf"
+    },
+    {
+      "title": "公式通知 No.15 パドック図.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178033",
+      "date": "",
+      "raw_text": "公式通知 No.15 パドック図.pdf"
     },
     {
       "title": "INFORMATION No.1 スーパー耐久 指定ピット割.pdf",
@@ -383,6 +389,24 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177965",
       "date": "",
       "raw_text": "【S耐】補足資料(Appendix).pdf"
+    },
+    {
+      "title": "【Yaris】ブリーフィング資料.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178034",
+      "date": "",
+      "raw_text": "【Yaris】ブリーフィング資料.pdf"
+    },
+    {
+      "title": "【Yaris】スタート進行表.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178035",
+      "date": "",
+      "raw_text": "【Yaris】スタート進行表.pdf"
+    },
+    {
+      "title": "【S耐・Yaris】車両体制図.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178036",
+      "date": "",
+      "raw_text": "【S耐・Yaris】車両体制図.pdf"
     }
   ],
   "error_state": {
