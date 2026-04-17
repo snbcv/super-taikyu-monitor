@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-18T05:07:13.646267+09:00",
-  "last_hash": "sha256:85d58c1ea740450a7aa930aebcddfa4d4de3dbc36c5758b35914df63e5cb2c99",
-  "item_count": 67,
+  "fetched_at": "2026-04-18T07:08:55.898359+09:00",
+  "last_hash": "sha256:9980252c28ca7c09bc53b49ec4123c8c531da73c33f57644e8a71dd54da8b812",
+  "item_count": 69,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -113,6 +113,18 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178033",
       "date": "",
       "raw_text": "公式通知 No.15 パドック図.pdf"
+    },
+    {
+      "title": "公式通知 No.16 大会組織.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178050",
+      "date": "",
+      "raw_text": "公式通知 No.16 大会組織.pdf"
+    },
+    {
+      "title": "公式通知 No.17 審判員名簿.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178051",
+      "date": "",
+      "raw_text": "公式通知 No.17 審判員名簿.pdf"
     },
     {
       "title": "INFORMATION No.1 スーパー耐久 指定ピット割.pdf",
