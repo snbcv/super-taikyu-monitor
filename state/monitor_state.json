@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-18T09:04:58.351966+09:00",
-  "last_hash": "sha256:199e3ee534daf137b485c04ae3256f6cc16157a06458597422b4f6fc17ad3853",
-  "item_count": 73,
+  "fetched_at": "2026-04-18T14:54:27.014341+09:00",
+  "last_hash": "sha256:19874488ca50b85eda826d3071acab0be5662b789431cf6249d607375903c16a",
+  "item_count": 75,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -149,6 +149,18 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178088",
       "date": "",
       "raw_text": "公式通知 No.21S耐ドライバー最終編成.pdf"
+    },
+    {
+      "title": "公式通知 No.22 Yaris Cup 公式予選後 再車検結果.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178113",
+      "date": "",
+      "raw_text": "公式通知 No.22 Yaris Cup 公式予選後 再車検結果.pdf"
+    },
+    {
+      "title": "公式通知 No.23 Yaris Cup NOVICE 決勝レース後 再車検結果.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178171",
+      "date": "",
+      "raw_text": "公式通知 No.23 Yaris Cup NOVICE 決勝レース後 再車検結果.pdf"
     },
     {
       "title": "INFORMATION No.1 スーパー耐久 指定ピット割.pdf",
