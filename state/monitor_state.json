@@ -2,8 +2,8 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-19T06:52:08.922303+09:00",
-  "last_hash": "sha256:19874488ca50b85eda826d3071acab0be5662b789431cf6249d607375903c16a",
+  "fetched_at": "2026-04-19T08:53:51.307001+09:00",
+  "last_hash": "sha256:49b07e50e035e1a40260cff60749b90985db0b565d89f245c5fdd3f80ff87c84",
   "item_count": 75,
   "normalized_items": [
     {
@@ -416,7 +416,7 @@
     },
     {
       "title": "【S耐】スタート進行表.pdf",
-      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/177964",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178287",
       "date": "",
       "raw_text": "【S耐】スタート進行表.pdf"
     },
