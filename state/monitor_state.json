@@ -2,9 +2,9 @@
   "schema_version": 1,
   "parser_version": 1,
   "source_url": "https://apps.mobilityland.co.jp/info/download/gDbFf5",
-  "fetched_at": "2026-04-19T18:10:39.797174+09:00",
-  "last_hash": "sha256:f60e1939e4272283200413ec4f8cd209259952f84f370d9baacf73fb57ce708e",
-  "item_count": 77,
+  "fetched_at": "2026-04-19T20:22:08.069700+09:00",
+  "last_hash": "sha256:b94f0079325c992898ab2515e9538c0ec2c65532e446ea8ef8aa15eb62eb4b0c",
+  "item_count": 78,
   "normalized_items": [
     {
       "title": "2026 鈴鹿サーキット一般競技規則書.pdf",
@@ -173,6 +173,12 @@
       "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178368",
       "date": "",
       "raw_text": "公式通知 No.25 決勝レーススタート時刻.pdf"
+    },
+    {
+      "title": "公式通知 No.26 動員発表.pdf",
+      "url": "https://apps.mobilityland.co.jp/info/download/gDbFf5/178477",
+      "date": "",
+      "raw_text": "公式通知 No.26 動員発表.pdf"
     },
     {
       "title": "INFORMATION No.1 スーパー耐久 指定ピット割.pdf",
